@@ -37,10 +37,18 @@ dependencies:
 - pip
 - pip:
   - folium
+  - geoalchemy2
   - geocoder
+  - geoindex
+  - geojson
   - geopandas
   - geopy
+  - gmaps
+  - mapbox
+  - mplleaflet
+  - osmapi
   - psycopg2
+  - pyproj
   - scikit-learn
 - prompt_toolkit
 - psycopg2
