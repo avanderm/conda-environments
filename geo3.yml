@@ -72,5 +72,4 @@ dependencies:
 - widgetsnbextension
 - xz
 - zlib
-prefix: /Users/avandermeersch/anaconda/envs/geo3
 
