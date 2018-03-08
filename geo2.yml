@@ -1,0 +1,83 @@
+name: geo2
+channels: !!python/tuple
+- defaults
+dependencies:
+- appnope
+- bleach
+- certifi
+- decorator
+- entrypoints
+- html5lib
+- icu
+- ipykernel
+- ipython
+- ipython_genutils
+- ipywidgets
+- jedi
+- jinja2
+- jsonschema
+- jupyter
+- jupyter_client
+- jupyter_console
+- jupyter_core
+- libpq
+- markupsafe
+- mistune
+- mkl
+- nbconvert
+- nbformat
+- notebook
+- numpy
+- openssl
+- pandas
+- pandocfilters
+- path.py
+- pexpect
+- pickleshare
+- pip
+- pip:
+  - folium
+  - geoalchemy2
+  - geocoder
+  - geoindex
+  - geojson
+  - geopandas
+  - geopy
+  - gmaps
+  - mapbox
+  - mplleaflet
+  - osmapi
+  - psycopg2
+  - pyproj
+  - scikit-learn
+- prompt_toolkit
+- psycopg2
+- ptyprocess
+- pygments
+- pyqt
+- python=2.7
+- python-dateutil
+- pytz
+- pyzmq
+- qt
+- qtconsole
+- readline
+- scikit-learn
+- scipy
+- setuptools
+- simplegeneric
+- sip
+- six
+- sqlite
+- terminado
+- testpath
+- tk
+- tornado
+- traitlets
+- unidecode
+- wcwidth
+- wheel
+- widgetsnbextension
+- xz
+- zlib
+
