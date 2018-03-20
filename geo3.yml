@@ -2,7 +2,6 @@ name: geo3
 channels: !!python/tuple
 - defaults
 dependencies:
-- appnope
 - bleach
 - certifi
 - decorator
